@@ -3,8 +3,8 @@
 - Machine Learning & Deep Learning Enthusiast | Proficient in Python, SQL, and Data Visualization(Power BI) । Certified Associate Cloud Engineer(GCP)
 - 🌱 I’m currently learning ...Machine Learning and Deep Learning
 - 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Mobile - 9665561762
+- email-apokle80@gmail.com
 
 <!---
 pokleakshay/pokleakshay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
